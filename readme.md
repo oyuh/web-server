@@ -20,7 +20,7 @@ Install the web server using the commands below.
 Now edit the index.js to setup the proxies you want to connect with each domain.
 
 ```bash
-  npm Install
+  npm i redbird
 ```
 
 
