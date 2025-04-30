@@ -1,5 +1,5 @@
 
-# Simple Web Server
+# Simple Web Server [COMPLETELY DEPRECIATED] (JUST USE VERCEL HOBBY TIER)
 
 This is a simple web server to host multiple apps on one server with multiple domains and sub-domains. This is just a template that I made because all of the other options are annoying to setup, or just simply don't work.
 
